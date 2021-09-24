@@ -1,0 +1,11 @@
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\bin\Debug\DirScanner TurKLoJeN.exe.config
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\bin\Debug\DirScanner TurKLoJeN.exe
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\bin\Debug\DirScanner TurKLoJeN.pdb
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner TurKLoJeN.csproj.AssemblyReference.cache
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner_TurKLoJeN.Properties.Resources.resources
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner TurKLoJeN.csproj.GenerateResource.cache
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner TurKLoJeN.csproj.CoreCompileInputs.cache
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner TurKLoJeN.exe
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner TurKLoJeN.pdb
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner_TurKLoJeN.Form1.resources
+C:\Users\turkl\source\repos\DirScanner TurKLoJeN\DirScanner TurKLoJeN\obj\Debug\DirScanner_TurKLoJeN.Form2.resources
